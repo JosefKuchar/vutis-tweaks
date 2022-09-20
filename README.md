@@ -1,2 +1,3 @@
-# vutis-tweaks
-Various tweaks for VUTIS
+# VUTIS tweaks
+
+## [📥 Install](https://github.com/JosefKuchar/vutis-tweaks/raw/main/vutis-tweaks.user.js)
